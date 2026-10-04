@@ -1,0 +1,802 @@
+{
+  "source": "https://en.wikipedia.org/wiki/List_of_mountain_passes_of_India",
+  "retrieved": "2026-10-04",
+  "license": "CC BY-SA 4.0; Wikipedia contributors. Extracted names, regions, elevations and connections; article coordinates added.",
+  "passes": [
+    {
+      "id": "auden-s-col",
+      "name": "Auden's Col",
+      "region": "Uttarakhand",
+      "elevation": 5350,
+      "connection": "Gangotri III (21,590 ft) and Jogin I (21,210 ft) in Gangotri Group.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Auden's_Col",
+      "coordinates": [
+        78.892,
+        30.8735
+      ],
+      "image": null
+    },
+    {
+      "id": "banihal-pass",
+      "name": "Banihal Pass",
+      "region": "Jammu and Kashmir",
+      "elevation": 2832,
+      "connection": "Jammu & Kashmir",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Banihal_Pass",
+      "coordinates": [
+        75.21107,
+        33.50699
+      ],
+      "image": null
+    },
+    {
+      "id": "bara-lacha-la",
+      "name": "Bara-lacha-la",
+      "region": "Himachal Pradesh",
+      "elevation": 5000,
+      "connection": "On Leh-Manali Highway, near Himachal-Ladakh border.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bara-lacha-la",
+      "coordinates": [
+        77.42028,
+        32.75861
+      ],
+      "image": "/images/bara-lacha-la.jpg",
+      "imageSource": "https://en.wikipedia.org/wiki/File:BaraLaachaLa.jpg"
+    },
+    {
+      "id": "bilafond-la",
+      "name": "Bilafond La",
+      "region": "Ladakh",
+      "elevation": 5450,
+      "connection": "Siachen Glacier",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bilafond_La",
+      "coordinates": [
+        76.95,
+        35.383
+      ],
+      "image": null
+    },
+    {
+      "id": "bomdila",
+      "name": "Bomdila",
+      "region": "Arunachal Pradesh",
+      "elevation": 2217,
+      "connection": "Tawang & Assam",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bomdila",
+      "coordinates": [
+        92.42,
+        27.265
+      ],
+      "image": null
+    },
+    {
+      "id": "changla-pass",
+      "name": "Changla Pass",
+      "region": "Ladakh",
+      "elevation": 5360,
+      "connection": "Leh & Changthang",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Changla_Pass",
+      "coordinates": [
+        77.93054,
+        34.04704
+      ],
+      "image": null
+    },
+    {
+      "id": "bum-la-pass",
+      "name": "Bum La Pass",
+      "region": "Arunachal Pradesh",
+      "elevation": 4600,
+      "connection": "Between Arunachal Pradesh and China",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bum_La_Pass",
+      "coordinates": [
+        91.8916106,
+        27.7236979
+      ],
+      "image": null
+    },
+    {
+      "id": "chankan-pass",
+      "name": "Chankan Pass",
+      "region": "Arunachal Pradesh",
+      "elevation": 2400,
+      "connection": "Passes in southeastern Arunachal (Anjaw district) between India and Myanmar, from north to south are Dhipu Pass (Dipher Pass) east of Kibithu  near India-Tibet-Myanmar tri-point border, Kumjawng Pass east of Krosam, Chankan Pass] east of Vijaynagar, Lekhapani Pass south of Namdapha National Park & east of Miao, Hpungan Pass, and Pangsau Pass south of Nampong on Stillwell Road.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_mountain_passes_of_India",
+      "coordinates": null,
+      "image": null
+    },
+    {
+      "id": "chanshal-pass",
+      "name": "Chanshal Pass",
+      "region": "Himachal Pradesh",
+      "elevation": 4520,
+      "connection": "Dodra Kwar and Chirgaon (Rohru) in Shimla district.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chanshal_Pass",
+      "coordinates": [
+        77.9887,
+        31.1971
+      ],
+      "image": null
+    },
+    {
+      "id": "debsa-pass",
+      "name": "Debsa Pass",
+      "region": "Himachal Pradesh",
+      "elevation": 5340,
+      "connection": "Kullu and Spiti districts.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Debsa_Pass",
+      "coordinates": [
+        77.80194,
+        31.90417
+      ],
+      "image": null
+    },
+    {
+      "id": "dihang-pass",
+      "name": "Dihang Pass",
+      "region": "Arunachal Pradesh",
+      "elevation": 5171,
+      "connection": "Immediate south of Fishtail-II in Dibang Valley district.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_mountain_passes_of_India",
+      "coordinates": null,
+      "image": null
+    },
+    {
+      "id": "diphu-pass-dipher-pass",
+      "name": "Diphu Pass (Dipher Pass)",
+      "region": "Arunachal Pradesh",
+      "elevation": 4587,
+      "connection": "Passes in southeastern Arunachal (Anjaw district) between India and Myanmar, from north to south are Dhipu Pass (Dipher Pass) east of Kibithu  near India-Tibet-Myanmar tri-point border, Kumjawng Pass east of Krosam, Chankan Pass east of Vijaynagar, Lekhapani Pass south of Namdapha National Park & east of Miao, Hpungan Pass, and Pangsau Pass south of Nampong on Stillwell Road.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Diphu_Pass",
+      "coordinates": [
+        97.33333,
+        28.15
+      ],
+      "image": null
+    },
+    {
+      "id": "dongkhala",
+      "name": "Dongkhala",
+      "region": "Sikkim",
+      "elevation": 3700,
+      "connection": "Connects to Tibet. Within northeast Sikkim north of originating glacier of Lachung River and 100 km straight-line northwest of disputed Doklam in Bhutan.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dongkhala",
+      "coordinates": [
+        88.76722,
+        27.9875
+      ],
+      "image": null
+    },
+    {
+      "id": "fotu-la",
+      "name": "Fotu La",
+      "region": "Ladakh",
+      "elevation": 4100,
+      "connection": "On Srinagar-Leh highway between Staktse towards Kargil and Lamayuru towards Leh.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fotu_La",
+      "coordinates": [
+        76.7015,
+        34.2892
+      ],
+      "image": null
+    },
+    {
+      "id": "goecha-la",
+      "name": "Goecha La",
+      "region": "Sikkim",
+      "elevation": 4940,
+      "connection": "In Westcentral Sikkim within southern end of Khangchendzonga National Park, near India–Nepal border.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Goecha_La",
+      "coordinates": [
+        88.18694,
+        27.60778
+      ],
+      "image": null
+    },
+    {
+      "id": "gyong-la",
+      "name": "Gyong La",
+      "region": "Jammu and Kashmir",
+      "elevation": 5686,
+      "connection": "Between NJ9842 and Bilafond La on AGPL in Siachen Glacier area.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gyong_La",
+      "coordinates": [
+        77.0708,
+        35.1747
+      ],
+      "image": null
+    },
+    {
+      "id": "haldighati-pass",
+      "name": "Haldighati Pass",
+      "region": "Rajasthan",
+      "elevation": 374,
+      "connection": "Between Kumbhalgarh Fort and Udaipur.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Haldighati_Pass",
+      "coordinates": [
+        73.6978065,
+        24.8921711
+      ],
+      "image": null
+    },
+    {
+      "id": "hpungan-pass",
+      "name": "Hpungan Pass",
+      "region": "Arunachal Pradesh",
+      "elevation": 3072,
+      "connection": "Passes in southeastern Arunachal (Anjaw district) between India and Myanmar, from north to south are Dhipu Pass (Dipher Pass) east of Kibithu  near India-Tibet-Myanmar tri-point border, Kumjawng Pass east of Krosam, Chankan Pass east of Vijaynagar, Lekhapani Pass south of Namdapha National Park & east of Miao, Hpungan Pass, and Pangsau Pass south of Nampong on Stillwell Road.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_mountain_passes_of_India",
+      "coordinates": null,
+      "image": null
+    },
+    {
+      "id": "imis-la",
+      "name": "Imis La",
+      "region": "Ladakh",
+      "elevation": 5290,
+      "connection": "Saddle on India-Tibet border between southeast Ladakh to Tibet on tri-junction of Ladakh-Tibet-Himachal. South of Chumar.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Imis_La",
+      "coordinates": [
+        79,
+        32.79
+      ],
+      "image": null
+    },
+    {
+      "id": "indrahar-pass",
+      "name": "Indrahar Pass",
+      "region": "Himachal Pradesh",
+      "elevation": 4411,
+      "connection": "near Dharamshala in westcentral Himachal on border between Kangra and Chamba districts.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Indrahar_Pass",
+      "coordinates": [
+        76.3812,
+        32.297533
+      ],
+      "image": null
+    },
+    {
+      "id": "sach-pass",
+      "name": "Sach Pass",
+      "region": "Himachal Pradesh",
+      "elevation": 4400,
+      "connection": "near Chamba in Himachal on border between Chamba and Chamba districts.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_mountain_passes_of_India",
+      "coordinates": null,
+      "image": null
+    },
+    {
+      "id": "jalori-pass",
+      "name": "Jalori Pass",
+      "region": "Himachal Pradesh",
+      "elevation": 3130,
+      "connection": "North of Shimla, halfway between Shimla and Manali.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_mountain_passes_of_India",
+      "coordinates": null,
+      "image": null
+    },
+    {
+      "id": "jelep-la",
+      "name": "Jelep La",
+      "region": "Sikkim",
+      "elevation": 4400,
+      "connection": "On India-China border, halfway between Shillong in India and Doklam in Bhutan.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jelep_La",
+      "coordinates": [
+        88.865747,
+        27.367194
+      ],
+      "image": null
+    },
+    {
+      "id": "kalindi-pass",
+      "name": "Kalindi Pass",
+      "region": "Uttarakhand",
+      "elevation": 5950,
+      "connection": "Heavily glaciated out-of-the-way off-road pass northeast of Guptakashi and southwest of Kedarnath.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kalindi_Pass",
+      "coordinates": [
+        79.28218,
+        30.91773
+      ],
+      "image": null
+    },
+    {
+      "id": "karakoram-pass-qara-tagh-la",
+      "name": "Karakoram Pass (Qara Tagh La)",
+      "region": "Ladakh",
+      "elevation": 5540,
+      "connection": "North of Daulat Beg Oldi, connects northcentral Depsang Plains in Ladakh with Xinjiang. In Gilgit Baltistan, passes with Xinjiang from northwest to southeast are Mintaka Pass near India-Xinjiang-Afghanistan tri-junction, Parpik Pass,  Khunjerab Pass, then India-held Aghil Pass north of K2. Then in Depsang Plains in Ladakh, passes with Aksai Chin from northwest to southeast are [Karakoram Pass (Qara Tagh La) and Lanak La.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Karakoram_Pass",
+      "coordinates": [
+        77.8231,
+        35.5133
+      ],
+      "image": null
+    },
+    {
+      "id": "khardung-la",
+      "name": "Khardung La",
+      "region": "Ladakh",
+      "elevation": 5600,
+      "connection": "Leh & Nubra, just east of Parpik Pass.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Khardung_La",
+      "coordinates": [
+        77.60417,
+        34.27833
+      ],
+      "image": "/images/khardung-la.png",
+      "imageSource": "https://en.wikipedia.org/wiki/File:India_Ladakh_relief_map.svg"
+    },
+    {
+      "id": "kongka-pass",
+      "name": "Kongka Pass",
+      "region": "Ladakh",
+      "elevation": 5171,
+      "connection": "East of Gogra, on India-China LAC in Chang Chenmo Valley adjacent to the disputed Aksai Chin region.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kongka_Pass",
+      "coordinates": [
+        79.0353,
+        34.335
+      ],
+      "image": null
+    },
+    {
+      "id": "kumjawng-pass",
+      "name": "Kumjawng Pass",
+      "region": "Arunachal Pradesh",
+      "elevation": 2929,
+      "connection": "Passes in southeastern Arunachal (Anjaw district) between India and Myanmar, from north to south are Dhipu Pass (Dipher Pass) east of Kibithu  near India-Tibet-Myanmar tri-point border, Kumjawng Pass east of Krosam, Chankan Pass east of Vijaynagar, Lekhapani Pass south of Namdapha National Park & east of Miao, Hpungan Pass, and Pangsau Pass south of Nampong on Stillwell Road.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_mountain_passes_of_India",
+      "coordinates": null,
+      "image": null
+    },
+    {
+      "id": "kaldang-kildang-la",
+      "name": "Kaldang Kildang La",
+      "region": "Ladakh",
+      "elevation": 4092,
+      "connection": "East of Kargil, halfway between Batalik and Mulbekh.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_mountain_passes_of_India",
+      "coordinates": null,
+      "image": null
+    },
+    {
+      "id": "kunzum-pass",
+      "name": "Kunzum Pass",
+      "region": "Himachal Pradesh",
+      "elevation": 4551,
+      "connection": "Between Batal & Losar - both west of Kaza, connects Lahaul & Spiti valleys.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kunzum_Pass",
+      "coordinates": [
+        77.648528,
+        32.415798
+      ],
+      "image": "/images/kunzum-pass.jpg",
+      "imageSource": "https://en.wikipedia.org/wiki/File:Kunzum_Pass_between_Lahaul_&_Spiti_28-6-04.jpg"
+    },
+    {
+      "id": "lamkhaga-pass",
+      "name": "Lamkhaga Pass",
+      "region": "Himachal Pradesh",
+      "elevation": 5284,
+      "connection": "",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lamkhaga_Pass",
+      "coordinates": null,
+      "image": null
+    },
+    {
+      "id": "lekhapani-pass",
+      "name": "Lekhapani Pass",
+      "region": "Arunachal Pradesh",
+      "elevation": 4000,
+      "connection": "Passes in southeastern Arunachal (Anjaw district) between India and Myanmar, from north to south are Dhipu Pass (Dipher Pass) east of Kibithu  near India-Tibet-Myanmar tri-point border, Kumjawng Pass east of Krosam, Chankan Pass east of Vijaynagar, Lekhapani Pass south of Namdapha National Park & east of Miao, Hpungan Pass, and Pangsau Pass south of Nampong on Stillwell Road.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_mountain_passes_of_India",
+      "coordinates": null,
+      "image": null
+    },
+    {
+      "id": "lipulekh-pass",
+      "name": "Lipulekh Pass",
+      "region": "Uttarakhand",
+      "elevation": 5300,
+      "connection": "",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lipulekh_Pass",
+      "coordinates": [
+        81.0285,
+        30.2329
+      ],
+      "image": null
+    },
+    {
+      "id": "lungalacha-la",
+      "name": "Lungalacha La",
+      "region": "Ladakh",
+      "elevation": 5100,
+      "connection": "",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lungalacha_La",
+      "coordinates": [
+        77.633,
+        33.1
+      ],
+      "image": null
+    },
+    {
+      "id": "mana-pass",
+      "name": "Mana Pass",
+      "region": "Uttarakhand",
+      "elevation": 5545,
+      "connection": "",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mana_Pass",
+      "coordinates": [
+        79.41667,
+        31.06833
+      ],
+      "image": null
+    },
+    {
+      "id": "mangsha-dhura",
+      "name": "Mangsha Dhura",
+      "region": "Uttarakhand",
+      "elevation": null,
+      "connection": "",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_mountain_passes_of_India",
+      "coordinates": null,
+      "image": null
+    },
+    {
+      "id": "marsimik-la",
+      "name": "Marsimik La",
+      "region": "Ladakh",
+      "elevation": 5582,
+      "connection": "",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Marsimik_La",
+      "coordinates": [
+        78.61778,
+        34.09333
+      ],
+      "image": null
+    },
+    {
+      "id": "mayodia-pass",
+      "name": "Mayodia Pass",
+      "region": "Arunachal Pradesh",
+      "elevation": 2655,
+      "connection": "",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mayodia_Pass",
+      "coordinates": [
+        95.91,
+        28.23361
+      ],
+      "image": null
+    },
+    {
+      "id": "muling-la",
+      "name": "Muling La",
+      "region": "Uttarakhand",
+      "elevation": 5669,
+      "connection": "Connects Uttarakhand to Tibet.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_mountain_passes_of_India",
+      "coordinates": null,
+      "image": null
+    },
+    {
+      "id": "nama-pass",
+      "name": "Nama Pass",
+      "region": "Uttarakhand",
+      "elevation": 5200,
+      "connection": "(Nanda Devi Biosphere Reserve)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nama_Pass",
+      "coordinates": [
+        80.333,
+        30
+      ],
+      "image": null
+    },
+    {
+      "id": "namika-la",
+      "name": "Namika La",
+      "region": "Ladakh",
+      "elevation": 3700,
+      "connection": "",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Namika_La",
+      "coordinates": [
+        76.4603,
+        34.3832
+      ],
+      "image": null
+    },
+    {
+      "id": "nathu-la",
+      "name": "Nathu La",
+      "region": "Sikkim",
+      "elevation": 4310,
+      "connection": "Sikkim & Tibet",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nathu_La",
+      "coordinates": [
+        88.83095,
+        27.38681
+      ],
+      "image": "/images/nathu-la.png",
+      "imageSource": "https://en.wikipedia.org/wiki/File:Location_of_Nathula.svg"
+    },
+    {
+      "id": "niti-pass",
+      "name": "Niti Pass",
+      "region": "Uttarakhand",
+      "elevation": null,
+      "connection": "",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Niti_Pass",
+      "coordinates": [
+        79.841,
+        30.778
+      ],
+      "image": null
+    },
+    {
+      "id": "palakkad-gap",
+      "name": "Palakkad Gap",
+      "region": "Kerala",
+      "elevation": 230,
+      "connection": "Kerala & Tamil Nadu",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Palakkad_Gap",
+      "coordinates": [
+        76.881966,
+        10.71855
+      ],
+      "image": "/images/palakkad-gap.jpg",
+      "imageSource": "https://en.wikipedia.org/wiki/File:Palaghat_Gap.jpg"
+    },
+    {
+      "id": "pangsau-pass",
+      "name": "Pangsau Pass",
+      "region": "Arunachal Pradesh",
+      "elevation": null,
+      "connection": "Passes in southeastern Arunachal (Anjaw district) between India and Myanmar, from north to south are Dhipu Pass (Dipher Pass) east of Kibithu  near India-Tibet-Myanmar tri-point border, Kumjawng Pass east of Krosam, Chankan Pass east of Vijaynagar, Lekhapani Pass south of Namdapha National Park & east of Miao, Hpungan Pass, and [Pangsau Pass south of Nampong on Stillwell Road.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pangsau_Pass",
+      "coordinates": [
+        96.156,
+        27.2476
+      ],
+      "image": null
+    },
+    {
+      "id": "pensi-la",
+      "name": "Pensi La",
+      "region": "Ladakh",
+      "elevation": null,
+      "connection": "",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pensi_La",
+      "coordinates": [
+        76.3553,
+        33.8678
+      ],
+      "image": null
+    },
+    {
+      "id": "pir-panjal-pass",
+      "name": "Pir-Panjal Pass",
+      "region": "Jammu and Kashmir",
+      "elevation": null,
+      "connection": "",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_mountain_passes_of_India",
+      "coordinates": null,
+      "image": null
+    },
+    {
+      "id": "rezang-la",
+      "name": "Rezang La",
+      "region": "Ladakh",
+      "elevation": null,
+      "connection": "",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rezang_La",
+      "coordinates": [
+        78.8494,
+        33.4188
+      ],
+      "image": null
+    },
+    {
+      "id": "rohtang-pass",
+      "name": "Rohtang Pass",
+      "region": "Himachal Pradesh",
+      "elevation": 3978,
+      "connection": "Manali & Lahaul",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rohtang_Pass",
+      "coordinates": [
+        77.24639,
+        32.37139
+      ],
+      "image": "/images/rohtang-pass.jpg",
+      "imageSource": "https://en.wikipedia.org/wiki/File:Kullu_Valley_from_Rohtang_Pass,_India.jpg"
+    },
+    {
+      "id": "sasser-pass",
+      "name": "Sasser Pass",
+      "region": "Ladakh",
+      "elevation": 5411,
+      "connection": "Nubra & Siachen Glacier",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sasser_Pass",
+      "coordinates": [
+        77.733,
+        35.033
+      ],
+      "image": null
+    },
+    {
+      "id": "sela-pass",
+      "name": "Sela Pass",
+      "region": "Arunachal Pradesh",
+      "elevation": 4200,
+      "connection": "Dirang & Tawang",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sela_Pass",
+      "coordinates": [
+        92.10469818,
+        27.50480843
+      ],
+      "image": "/images/sela-pass.jpg",
+      "imageSource": "https://en.wikipedia.org/wiki/File:Tawang_Gate.jpg"
+    },
+    {
+      "id": "sengottai",
+      "name": "Sengottai",
+      "region": "Kerala",
+      "elevation": 210,
+      "connection": "Travancore & Tamil Nadu",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sengottai",
+      "coordinates": [
+        77.246389,
+        8.973333
+      ],
+      "image": null
+    },
+    {
+      "id": "shashi-la",
+      "name": "Shashi La",
+      "region": "Ladakh",
+      "elevation": 4264,
+      "connection": "",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_mountain_passes_of_India",
+      "coordinates": null,
+      "image": null
+    },
+    {
+      "id": "shingo-la",
+      "name": "Shingo La",
+      "region": "Ladakh",
+      "elevation": 5091,
+      "connection": "Darcha in Lahaul to Kargyak and Padum in Zanskar",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Shingo_La",
+      "coordinates": [
+        77.1997,
+        32.9089
+      ],
+      "image": null
+    },
+    {
+      "id": "shipki-la",
+      "name": "Shipki La",
+      "region": "Himachal Pradesh",
+      "elevation": 3900,
+      "connection": "",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Shipki_La",
+      "coordinates": [
+        78.73389,
+        31.83194
+      ],
+      "image": null
+    },
+    {
+      "id": "sia-la",
+      "name": "Sia La",
+      "region": "Ladakh",
+      "elevation": 5589,
+      "connection": "Siachen Glacier",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sia_La",
+      "coordinates": [
+        76.7925,
+        35.58194
+      ],
+      "image": null
+    },
+    {
+      "id": "sin-la",
+      "name": "Sin La",
+      "region": "Uttarakhand",
+      "elevation": 5495,
+      "connection": "",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sin_La",
+      "coordinates": [
+        80.333,
+        30
+      ],
+      "image": null
+    },
+    {
+      "id": "spangur-gap",
+      "name": "Spangur Gap",
+      "region": "Ladakh",
+      "elevation": null,
+      "connection": "",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Spangur_Gap",
+      "coordinates": [
+        78.90889,
+        33.53639
+      ],
+      "image": null
+    },
+    {
+      "id": "tanglang-la-thang-la",
+      "name": "Tanglang La (Thang La)",
+      "region": "Ladakh",
+      "elevation": 5359,
+      "connection": "",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tanglang_La",
+      "coordinates": [
+        77.77,
+        33.50778
+      ],
+      "image": null
+    },
+    {
+      "id": "thamarassery",
+      "name": "Thamarassery",
+      "region": "Kerala",
+      "elevation": 520,
+      "connection": "Malabar & Mysore",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Thamarassery",
+      "coordinates": null,
+      "image": null
+    },
+    {
+      "id": "traill-s-pass",
+      "name": "Traill's Pass",
+      "region": "Uttarakhand",
+      "elevation": 5200,
+      "connection": "",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Traill's_Pass",
+      "coordinates": [
+        80.02,
+        30.3
+      ],
+      "image": null
+    },
+    {
+      "id": "umling-la",
+      "name": "Umling La",
+      "region": "Ladakh",
+      "elevation": 5900,
+      "connection": "",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Umling_La",
+      "coordinates": [
+        79.2715,
+        32.6931
+      ],
+      "image": null
+    },
+    {
+      "id": "yonggyap-pass",
+      "name": "Yonggyap Pass",
+      "region": "Arunachal Pradesh",
+      "elevation": null,
+      "connection": "",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_mountain_passes_of_India",
+      "coordinates": null,
+      "image": null
+    },
+    {
+      "id": "zojila-pass",
+      "name": "Zojila Pass",
+      "region": "Ladakh",
+      "elevation": 3800,
+      "connection": "Kashmir & Ladakh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Zojila_Pass",
+      "coordinates": [
+        75.47194,
+        34.27889
+      ],
+      "image": "/images/zojila-pass.jpg",
+      "imageSource": "https://en.wikipedia.org/wiki/File:Zojila_Road.jpg"
+    }
+  ]
+}

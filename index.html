@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#215b4d" />
+    <meta name="description" content="Summit Atlas: India's mountain passes and 50 highest major summits, with terrain, elevations, access notes and road routes." />
+    <link rel="icon" href="data:," />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;450;500;550;600;650;700&family=DM+Serif+Display&display=swap" rel="stylesheet" />
+    <title>Summit Atlas | Mountains &amp; Passes of India</title>
+  </head>
+  <body>
+    <a class="skip-link" href="#pass-search">Skip to directory</a>
+    <div id="app">
+      <header class="app-header">
+        <a class="brand" href="/" aria-label="Summit Atlas home"><span class="prayer-flags" aria-hidden="true"><span class="prayer-flag flag-blue"></span><span class="prayer-flag flag-white"></span><span class="prayer-flag flag-red"></span><span class="prayer-flag flag-green"></span><span class="prayer-flag flag-yellow"></span></span><span>Summit Atlas<span class="brand-dot">.</span></span></a>
+        <div class="header-context"><span class="header-location"><i data-lucide="compass"></i><span>INDIA<small>PEAKS &amp; PASSES</small></span></span></div>
+      </header>
+      <main class="atlas-layout">
+        <aside id="directory" class="directory" aria-label="Mountain pass directory">
+          <div class="directory-intro">
+            <div class="segmented directory-switch" role="group" aria-label="Atlas collection"><button id="passes-view" class="active" aria-pressed="true" disabled><i data-lucide="route"></i>Passes</button><button id="mountains-view" aria-pressed="false" disabled><i data-lucide="mountain-snow"></i>Mountains</button></div>
+            <span class="eyebrow"><span class="tiny-line"></span><span id="directory-eyebrow">THE HIGHER WAY</span></span><h1 id="directory-title">Mountain passes<br /> of India<span class="accent-dot">.</span></h1><p class="intro-caption">The Himalaya. The Ghats. And in between.</p>
+            <div class="atlas-stats"><div><strong id="total-count">64</strong><span id="entry-type">passes</span></div><div><strong id="region-count">8</strong><span>regions</span></div><div><strong id="highest-pass">5,950<span> m</span></strong><span>highest listed</span></div></div>
+          </div>
+          <div class="directory-filters">
+            <div class="filter-tools">
+              <div class="search-field"><i data-lucide="search"></i><input id="pass-search" type="search" placeholder="Find a pass or region..." autocomplete="off" aria-label="Search passes or regions" /><button id="clear-search" class="icon-button" title="Clear search" aria-label="Clear search" hidden><i data-lucide="x"></i></button></div>
+              <button id="filter-toggle" class="filter-button icon-button" title="Filters" aria-label="Filters" aria-expanded="false" aria-controls="extra-filters"><i data-lucide="sliders-horizontal"></i><span id="filter-dot" hidden></span></button>
+              <div id="extra-filters" class="extra-filters" role="group" aria-label="Directory filters" hidden>
+                <div class="filter-panel-heading"><strong>Filters</strong><button id="close-filters" class="icon-button" title="Close filters" aria-label="Close filters"><i data-lucide="x"></i></button></div>
+                <label class="region-filter-label">Region<select id="region-filter" class="form-select form-select-sm"><option value="">All regions</option></select></label>
+                <label>Access<select id="access-filter" class="form-select form-select-sm"><option value="">All types</option><option value="road">Road</option><option value="trek">Trekking</option><option value="restricted">Restricted</option><option value="unknown">Unverified</option></select></label>
+                <label class="elevation-filter-label">Elevation<select id="elevation-filter" class="form-select form-select-sm"><option value="0">Any</option><option value="3000">3,000 m+</option><option value="4000">4,000 m+</option><option value="5000">5,000 m+</option></select></label>
+                <button id="reset-filters" class="text-button"><i data-lucide="rotate-ccw"></i>Reset filters</button>
+              </div>
+            </div>
+          </div>
+          <div class="list-heading"><span id="results-count" role="status">Loading passes...</span><label class="visually-hidden" for="sort-select">Sort passes</label><select id="sort-select" aria-label="Sort passes"><option value="elevation">Elevation</option><option value="name">A to Z</option></select></div>
+          <div id="pass-list" class="pass-list" aria-label="Passes"><div class="list-loading"><span class="spinner-border spinner-border-sm"></span> Loading the atlas</div></div>
+        </aside>
+        <section class="map-section" aria-label="Interactive India map">
+          <div id="map" aria-label="Map of India's mountains and passes"></div>
+          <div class="map-heading"><span class="eyebrow">SOUTH ASIA <span>/</span> INDIA</span><span id="map-subtitle">A different perspective.</span></div>
+          <div class="map-top-controls"><div class="segmented map-style" aria-label="Map style"><button id="terrain-style" class="active" aria-pressed="true"><i data-lucide="mountain"></i><span>Terrain</span></button><button id="satellite-style" aria-pressed="false"><i data-lucide="satellite"></i><span>Satellite</span></button></div></div>
+          <div class="map-toolbar" role="toolbar" aria-label="Map controls"><button id="zoom-in" class="icon-button" title="Zoom in" aria-label="Zoom in"><i data-lucide="plus"></i></button><button id="zoom-out" class="icon-button" title="Zoom out" aria-label="Zoom out"><i data-lucide="minus"></i></button><span class="toolbar-divider"></span><button id="reset-map" class="icon-button" title="Show all India" aria-label="Show all India"><i data-lucide="scan"></i></button><button id="locate-pass" class="icon-button" title="Focus selected place" aria-label="Focus selected place"><i data-lucide="locate-fixed"></i></button><span class="toolbar-divider"></span><button id="north-map" class="icon-button north-button" title="Reset north" aria-label="Reset north"><i data-lucide="navigation-2"></i><small>N</small></button></div>
+          <div class="map-bottom-controls"><div class="segmented dimension-toggle" aria-label="Map dimensions"><button id="view-2d" class="active" aria-pressed="true">2D</button><button id="view-3d" aria-pressed="false"><i data-lucide="box"></i>3D</button></div><span class="map-coordinate" id="map-coordinate">22.0000 N, 80.0000 E</span></div>
+          <div class="map-legend" aria-label="Map legend"><span><b class="legend-dot road"></b>Road</span><span><b class="legend-dot trek"></b>Trek</span><span><b class="legend-dot restricted"></b>Restricted</span><span><b class="legend-dot unknown"></b>Unverified</span></div>
+          <div id="map-status" class="map-status" role="status"><span class="spinner-border spinner-border-sm"></span> Loading terrain...</div>
+          <div id="map-error" class="map-error" hidden><i data-lucide="wifi-off"></i><strong>The map is unavailable</strong><p>The directory is still available. Check your connection or WebGL support.</p><button class="btn btn-primary" id="retry-map">Retry map</button></div>
+          <article id="pass-detail" class="detail-panel" aria-label="Selected pass details" hidden></article>
+        </section>
+      </main>
+      <nav class="mobile-nav" aria-label="Mobile view"><button id="mobile-map" class="active" aria-pressed="true"><i data-lucide="map"></i>Map</button><button id="mobile-list" aria-pressed="false"><i data-lucide="list-filter"></i><span id="mobile-collection">Passes</span><span id="mobile-count">64</span></button></nav>
+    </div>
+    <div class="toast-container position-fixed bottom-0 start-50 translate-middle-x p-3"><div id="app-toast" class="toast align-items-center border-0" role="status" aria-live="polite" aria-atomic="true"><div class="d-flex"><div id="toast-message" class="toast-body"></div><button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast" aria-label="Close notification"></button></div></div></div>
+    <noscript><div class="noscript-message">JavaScript is required for the interactive map. <a href="https://en.wikipedia.org/wiki/List_of_mountain_passes_of_India">Read the mountain pass list on Wikipedia.</a></div></noscript>
+    <script type="module" src="/src/app.js"></script>
+  </body>
+</html>

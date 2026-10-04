@@ -1,0 +1,810 @@
+{
+  "source": "https://en.wikipedia.org/wiki/List_of_mountains_in_India",
+  "retrieved": "2026-10-04",
+  "license": "CC BY-SA 4.0; Wikipedia contributors. Names, elevations, ranges, ranks, regions and coordinates extracted from the list and linked articles.",
+  "mountains": [
+    {
+      "id": "mountain-kangchenjunga",
+      "name": "Kangchenjunga",
+      "region": "Sikkim",
+      "elevation": 8586,
+      "range": "Himalayas",
+      "rank": 1,
+      "prominence": 3922,
+      "location": "Sikkim",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kangchenjunga",
+      "coordinates": [
+        88.14667,
+        27.7025
+      ],
+      "image": "/images/mountain-kangchenjunga.jpg",
+      "imageSource": "https://en.wikipedia.org/wiki/File:Kangchenjunga_PangPema.JPG"
+    },
+    {
+      "id": "mountain-nanda-devi",
+      "name": "Nanda Devi",
+      "region": "Uttarakhand",
+      "elevation": 7816,
+      "range": "Garhwal Himalaya",
+      "rank": 2,
+      "prominence": 3139,
+      "location": "Uttarakhand",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nanda_Devi",
+      "coordinates": [
+        79.97083,
+        30.37583
+      ],
+      "image": "/images/mountain-nanda-devi.jpg",
+      "imageSource": "https://en.wikipedia.org/wiki/File:Mt._Nanda_Devi.jpg"
+    },
+    {
+      "id": "mountain-kamet",
+      "name": "Kamet",
+      "region": "Uttarakhand",
+      "elevation": 7756,
+      "range": "Garhwal Himalaya",
+      "rank": 3,
+      "prominence": 2817,
+      "location": "Uttarakhand",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kamet",
+      "coordinates": [
+        79.59167,
+        30.92
+      ],
+      "image": "/images/mountain-kamet.jpg",
+      "imageSource": "https://en.wikipedia.org/wiki/File:Kamet_Closeup.jpg"
+    },
+    {
+      "id": "mountain-saltoro-kangri-k10",
+      "name": "Saltoro Kangri / K10",
+      "region": "Ladakh",
+      "elevation": 7742,
+      "range": "Saltoro Karakoram",
+      "rank": 4,
+      "prominence": 2160,
+      "location": "Ladakh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Saltoro_Kangri",
+      "coordinates": [
+        76.84806,
+        35.39917
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-saser-kangri-i-k22",
+      "name": "Saser Kangri I / K22",
+      "region": "Ladakh",
+      "elevation": 7672,
+      "range": "Saser Karakoram",
+      "rank": 5,
+      "prominence": 2304,
+      "location": "Ladakh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Saser_Kangri",
+      "coordinates": [
+        77.7525,
+        34.86667
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-mamostong-kangri-k35",
+      "name": "Mamostong Kangri / K35",
+      "region": "Ladakh",
+      "elevation": 7516,
+      "range": "Rimo Karakoram",
+      "rank": 6,
+      "prominence": 1803,
+      "location": "Ladakh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mamostong_Kangri",
+      "coordinates": [
+        77.5775,
+        35.14194
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-saser-kangri-ii-e",
+      "name": "Saser Kangri II E",
+      "region": "Ladakh",
+      "elevation": 7513,
+      "range": "Saser Karakoram",
+      "rank": 7,
+      "prominence": 1450,
+      "location": "Ladakh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_mountains_in_India#Highest_major_summits_in_India",
+      "coordinates": [
+        77.80667,
+        34.80472
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-saser-kangri-iii",
+      "name": "Saser Kangri III",
+      "region": "Ladakh",
+      "elevation": 7495,
+      "range": "Saser Karakoram",
+      "rank": 8,
+      "prominence": 850,
+      "location": "Ladakh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_mountains_in_India#Highest_major_summits_in_India",
+      "coordinates": [
+        77.785,
+        34.84556
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-teram-kangri-i",
+      "name": "Teram Kangri I",
+      "region": "Ladakh",
+      "elevation": 7462,
+      "range": "Siachen Karakoram",
+      "rank": 9,
+      "prominence": 1702,
+      "location": "Ladakh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Teram_Kangri",
+      "coordinates": [
+        77.07833,
+        35.58
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-jongsong-peak",
+      "name": "Jongsong Peak",
+      "region": "Sikkim",
+      "elevation": 7462,
+      "range": "Kangchenjunga Himalaya",
+      "rank": 10,
+      "prominence": 1298,
+      "location": "Sikkim",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jongsong_Peak",
+      "coordinates": [
+        88.13583,
+        27.88167
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-nanda-devi-east-sunanda-devi-mountain",
+      "name": "Nanda Devi East (Sunanda Devi)",
+      "region": "Uttarakhand",
+      "elevation": 7434,
+      "range": "Garhwal Himalaya",
+      "rank": 11,
+      "prominence": 1978,
+      "location": "Uttarakhand",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nanda_Devi_East",
+      "coordinates": [
+        79.99444,
+        30.36667
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-kabru-n",
+      "name": "Kabru N",
+      "region": "Sikkim",
+      "elevation": 7412,
+      "range": "Kangchenjunga Himalaya",
+      "rank": 12,
+      "prominence": 780,
+      "location": "Sikkim",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kabru",
+      "coordinates": [
+        88.11667,
+        27.63389
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-ghent-kangri",
+      "name": "Ghent Kangri",
+      "region": "Ladakh",
+      "elevation": 7401,
+      "range": "Saltoro Karakoram",
+      "rank": 13,
+      "prominence": 1493,
+      "location": "Ladakh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ghent_Kangri",
+      "coordinates": [
+        76.80056,
+        35.51778
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-rimo-i",
+      "name": "Rimo I",
+      "region": "Ladakh",
+      "elevation": 7385,
+      "range": "Rimo Karakoram",
+      "rank": 14,
+      "prominence": 1438,
+      "location": "Ladakh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rimo_I",
+      "coordinates": [
+        77.36889,
+        35.355
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-teram-kangri-iii",
+      "name": "Teram Kangri III",
+      "region": "Ladakh",
+      "elevation": 7382,
+      "range": "Siachen Karakoram",
+      "rank": 15,
+      "prominence": 520,
+      "location": "Ladakh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_mountains_in_India#Highest_major_summits_in_India",
+      "coordinates": [
+        77.04806,
+        35.59972
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-kirat-chuli",
+      "name": "Kirat Chuli",
+      "region": "Sikkim",
+      "elevation": 7365,
+      "range": "Kangchenjunga Himalaya",
+      "rank": 16,
+      "prominence": 1168,
+      "location": "Sikkim",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kirat_Chuli",
+      "coordinates": [
+        88.19722,
+        27.79139
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-mana-peak",
+      "name": "Mana Peak",
+      "region": "Uttarakhand",
+      "elevation": 7272,
+      "range": "Garhwal Himalaya",
+      "rank": 17,
+      "prominence": 730,
+      "location": "Uttarakhand",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mana_Peak",
+      "coordinates": [
+        79.61528,
+        30.88056
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-apsarasas-kangri",
+      "name": "Apsarasas Kangri",
+      "region": "Ladakh",
+      "elevation": 7245,
+      "range": "Siachen Karakoram",
+      "rank": 18,
+      "prominence": 635,
+      "location": "Ladakh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Apsarasas_Kangri",
+      "coordinates": [
+        77.14861,
+        35.53861
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-mukut-parbat",
+      "name": "Mukut Parbat",
+      "region": "Uttarakhand",
+      "elevation": 7242,
+      "range": "Garhwal Himalaya",
+      "rank": 19,
+      "prominence": 840,
+      "location": "Uttarakhand",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mukut_Parbat",
+      "coordinates": [
+        79.57,
+        30.94917
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-rimo-iii",
+      "name": "Rimo III",
+      "region": "Ladakh",
+      "elevation": 7233,
+      "range": "Rimo Karakoram",
+      "rank": 20,
+      "prominence": 615,
+      "location": "Ladakh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_mountains_in_India#Highest_major_summits_in_India",
+      "coordinates": [
+        77.36167,
+        35.37528
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-singhi-kangri",
+      "name": "Singhi Kangri",
+      "region": "Ladakh",
+      "elevation": 7202,
+      "range": "Siachen Karakoram",
+      "rank": 21,
+      "prominence": 790,
+      "location": "Ladakh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Singhi_Kangri",
+      "coordinates": [
+        76.98361,
+        35.59972
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-hardeol",
+      "name": "Hardeol",
+      "region": "Uttarakhand",
+      "elevation": 7161,
+      "range": "Kumaon Himalaya",
+      "rank": 22,
+      "prominence": 1291,
+      "location": "Uttarakhand",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hardeol",
+      "coordinates": [
+        80.017,
+        30.567
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-chaukhamba-i",
+      "name": "Chaukhamba I",
+      "region": "Uttarakhand",
+      "elevation": 7138,
+      "range": "Garhwal Himalaya",
+      "rank": 23,
+      "prominence": 1594,
+      "location": "Uttarakhand",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chaukhamba",
+      "coordinates": [
+        79.28861,
+        30.74806
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-nun-kun",
+      "name": "Nun-Kun",
+      "region": "Ladakh",
+      "elevation": 7135,
+      "range": "Zanskar Himalaya",
+      "rank": 24,
+      "prominence": 2404,
+      "location": "Ladakh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nun-Kun",
+      "coordinates": [
+        76.017,
+        33.983
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-pauhunri",
+      "name": "Pauhunri",
+      "region": "Sikkim",
+      "elevation": 7128,
+      "range": "Sikkim Himalaya",
+      "rank": 25,
+      "prominence": 2035,
+      "location": "Sikkim",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pauhunri",
+      "coordinates": [
+        88.85,
+        27.95
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-pathibhara",
+      "name": "Pathibhara",
+      "region": "Sikkim",
+      "elevation": 7123,
+      "range": "Kangchenjunga Himalaya",
+      "rank": 26,
+      "prominence": 900,
+      "location": "Sikkim",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pathibara",
+      "coordinates": [
+        88.167,
+        27.817
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-trisul-i",
+      "name": "Trisul I",
+      "region": "Uttarakhand",
+      "elevation": 7120,
+      "range": "Kumaon Himalaya",
+      "rank": 27,
+      "prominence": 1616,
+      "location": "Uttarakhand",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Trisul",
+      "coordinates": [
+        79.77667,
+        30.31583
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-satopanth",
+      "name": "Satopanth",
+      "region": "Uttarakhand",
+      "elevation": 7075,
+      "range": "Garhwal Himalaya",
+      "rank": 28,
+      "prominence": 1250,
+      "location": "Uttarakhand",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Satopanth",
+      "coordinates": [
+        79.21333,
+        30.84583
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-tirsuli",
+      "name": "Tirsuli",
+      "region": "Uttarakhand",
+      "elevation": 7074,
+      "range": "Garhwal Himalaya",
+      "rank": 29,
+      "prominence": 674,
+      "location": "Uttarakhand",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tirsuli",
+      "coordinates": [
+        80.017,
+        30.583
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-chong-kumdang-ri",
+      "name": "Chong Kumdang Ri",
+      "region": "Ladakh",
+      "elevation": 7071,
+      "range": "Rimo Karakoram",
+      "rank": 30,
+      "prominence": 851,
+      "location": "Ladakh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chong_Kumdang_Ri",
+      "coordinates": [
+        77.583,
+        35.2
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-dunagiri",
+      "name": "Dunagiri",
+      "region": "Uttarakhand",
+      "elevation": 7066,
+      "range": "Garhwal Himalaya",
+      "rank": 31,
+      "prominence": 1346,
+      "location": "Uttarakhand",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dunagiri_(mountain)",
+      "coordinates": [
+        79.86556,
+        30.51528
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-kangto",
+      "name": "Kangto",
+      "region": "Arunachal Pradesh",
+      "elevation": 7060,
+      "range": "Assam Himalaya",
+      "rank": 32,
+      "prominence": 2195,
+      "location": "Arunachal Pradesh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kangto",
+      "coordinates": [
+        92.53139,
+        27.86583
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-nyegyi-kansang",
+      "name": "Nyegyi Kansang",
+      "region": "Arunachal Pradesh",
+      "elevation": 7047,
+      "range": "Assam Himalaya",
+      "rank": 33,
+      "prominence": 1752,
+      "location": "Arunachal Pradesh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nyegyi_Kansang",
+      "coordinates": [
+        92.667,
+        27.933
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-padmanabh",
+      "name": "Padmanabh",
+      "region": "Ladakh",
+      "elevation": 7030,
+      "range": "Rimo Karakoram",
+      "rank": 34,
+      "prominence": 870,
+      "location": "Ladakh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Padmanabh",
+      "coordinates": [
+        77.183,
+        35.433
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-shudu-tsenpa",
+      "name": "Shudu Tsenpa",
+      "region": "Sikkim",
+      "elevation": 7024,
+      "range": "Sikkim Himalaya",
+      "rank": 35,
+      "prominence": 524,
+      "location": "Sikkim",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Shudu_Tsenpa",
+      "coordinates": [
+        88.867,
+        27.933
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-chamshen-kangri-tughmo-zarpo",
+      "name": "Chamshen Kangri / Tughmo Zarpo",
+      "region": "Ladakh",
+      "elevation": 7017,
+      "range": "Saser Karakoram",
+      "rank": 36,
+      "prominence": 657,
+      "location": "Ladakh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_mountains_in_India",
+      "coordinates": [
+        77.8,
+        34.883
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-aq-tash",
+      "name": "Aq Tash",
+      "region": "Ladakh",
+      "elevation": 7016,
+      "range": "Rimo Karakoram",
+      "rank": 37,
+      "prominence": 1176,
+      "location": "Ladakh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Aq_Tash",
+      "coordinates": [
+        77.633,
+        35.083
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-chong-kumdang-ri-ii",
+      "name": "Chong Kumdang Ri II",
+      "region": "Ladakh",
+      "elevation": 7004,
+      "range": "Rimo Karakoram",
+      "rank": 38,
+      "prominence": 624,
+      "location": "Ladakh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chong_Kumdang_Ri_II",
+      "coordinates": [
+        77.533,
+        35.2
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-rishi-pahar",
+      "name": "Rishi Pahar",
+      "region": "Uttarakhand",
+      "elevation": 6992,
+      "range": "Kumaon Himalaya",
+      "rank": 39,
+      "prominence": 622,
+      "location": "Uttarakhand",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rishi_Pahar",
+      "coordinates": [
+        79.99778,
+        30.5325
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-thalay-sagar",
+      "name": "Thalay Sagar",
+      "region": "Uttarakhand",
+      "elevation": 6984,
+      "range": "Garhwal Himalaya",
+      "rank": 40,
+      "prominence": 1004,
+      "location": "Uttarakhand",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Thalay_Sagar",
+      "coordinates": [
+        78.99583,
+        30.86
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-mount-lakshmi",
+      "name": "Mount Lakshmi",
+      "region": "Ladakh",
+      "elevation": 6983,
+      "range": "Rimo Karakoram",
+      "rank": 41,
+      "prominence": 800,
+      "location": "Ladakh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_mountains_in_India",
+      "coordinates": [
+        77.167,
+        35.45
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-kedarnath-main",
+      "name": "Kedarnath Main",
+      "region": "Uttarakhand",
+      "elevation": 6968,
+      "range": "Garhwal Himalaya",
+      "rank": 42,
+      "prominence": 1400,
+      "location": "Uttarakhand",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kedarnath_(mountain)",
+      "coordinates": [
+        79.0675,
+        30.79722
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-langpo",
+      "name": "Langpo",
+      "region": "Sikkim",
+      "elevation": 6965,
+      "range": "Sikkim Himalaya",
+      "rank": 43,
+      "prominence": 560,
+      "location": "Sikkim",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_mountains_in_India",
+      "coordinates": [
+        88.19639,
+        27.85361
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-saraswati-parvat-i-saraswati-peak",
+      "name": "Saraswati Parvat I / Saraswati Peak",
+      "region": "Uttarakhand",
+      "elevation": 6940,
+      "range": "Garhwal Himalaya",
+      "rank": 44,
+      "prominence": 900,
+      "location": "Uttarakhand",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Saraswati_Parbat_I",
+      "coordinates": [
+        79.5,
+        30.017
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-shahi-kangri",
+      "name": "Shahi Kangri",
+      "region": "Ladakh",
+      "elevation": 6934,
+      "range": "Central Tibetan Plateau",
+      "rank": 45,
+      "prominence": 1644,
+      "location": "Ladakh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Shahi_Kangri",
+      "coordinates": [
+        77.833,
+        35.167
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-sri-kailash",
+      "name": "Sri Kailash",
+      "region": "Uttarakhand",
+      "elevation": 6932,
+      "range": "Garhwal Himalaya",
+      "rank": 46,
+      "prominence": 1092,
+      "location": "Uttarakhand",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sri_Kailash",
+      "coordinates": [
+        79.1775,
+        31.0175
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-kalanka",
+      "name": "Kalanka",
+      "region": "Uttarakhand",
+      "elevation": 6931,
+      "range": "Garhwal Himalaya",
+      "rank": 47,
+      "prominence": 850,
+      "location": "Uttarakhand",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Kalanka",
+      "coordinates": [
+        79.93889,
+        30.50222
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-chorten-nyima-ri",
+      "name": "Chorten Nyima Ri",
+      "region": "Sikkim",
+      "elevation": 6927,
+      "range": "Sikkim Himalaya",
+      "rank": 48,
+      "prominence": 807,
+      "location": "Sikkim",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_mountains_in_India",
+      "coordinates": [
+        88.17833,
+        27.95
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-saf-minal-p-6911",
+      "name": "Saf Minal / P. 6911",
+      "region": "Uttarakhand",
+      "elevation": 6911,
+      "range": "Garhwal Himalaya",
+      "rank": 49,
+      "prominence": 531,
+      "location": "Uttarakhand",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Saf_Minal",
+      "coordinates": [
+        79.967,
+        30.517
+      ],
+      "image": null
+    },
+    {
+      "id": "mountain-panchchuli-ii",
+      "name": "Panchchuli II",
+      "region": "Uttarakhand",
+      "elevation": 6904,
+      "range": "Kumaon Himalaya",
+      "rank": 50,
+      "prominence": 1614,
+      "location": "Uttarakhand",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Panchchuli",
+      "coordinates": [
+        80.433,
+        30.217
+      ],
+      "image": null
+    }
+  ]
+}
